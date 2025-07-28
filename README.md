@@ -187,6 +187,7 @@ payloads/
 
 ---
 
-**Author:** [Shayan from EroHack](https://github.com/erohack)
+**Author:** [Shayan from EroHack](https://github.com/ERO-HACK)
+**Telegram:** [Join Telegram](https://t.me/erohack0)
 **License:** MIT
 **Last Update:** July 2025
